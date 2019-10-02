@@ -1,0 +1,174 @@
+{
+  "Beta": {
+    "Alcon Basic":{
+      "Iluminacao_on":3,
+      "Iluminacao_off":1,
+      "Motor_on":1,
+      "Motor_off":1},
+    "Alcon Colours":{
+      "Iluminacao_on":500,
+      "Iluminacao_off":35,
+      "Motor_on":15,
+      "Motor_off":400},
+    "Alcon Alevinos":{
+       "Iluminacao_on":530,
+      "Iluminacao_off":40,
+      "Motor_on":13,
+      "Motor_off":355}
+  },
+  "Colisa Azul": {
+    "Alcon Basic":{
+      "Iluminacao_on":584,
+      "Iluminacao_off":18,
+      "Motor_on":14,
+      "Motor_off":265},
+    "Alcon Colours":{
+      "Iluminacao_on":632,
+      "Iluminacao_off":27,
+      "Motor_on":19,
+      "Motor_off":365},
+    "Alcon Alevinos":{
+       "Iluminacao_on":530,
+      "Iluminacao_off":36,
+      "Motor_on":11,
+      "Motor_off":605}
+},
+ "Kinguio": {
+    "Alcon Basic":{
+      "Iluminacao_on":666,
+      "Iluminacao_off":30,
+      "Motor_on":14,
+      "Motor_off":255},
+    "Alcon Colours":{
+      "Iluminacao_on":465,
+      "Iluminacao_off":40,
+      "Motor_on":13,
+      "Motor_off":25},
+    "Alcon Alevinos":{
+       "Iluminacao_on":570,
+      "Iluminacao_off":40,
+      "Motor_on":10,
+      "Motor_off":400}
+},
+ "Paulistinha": {
+    "Alcon Basic":{
+      "Iluminacao_on":505,
+      "Iluminacao_off":25,
+      "Motor_on":15,
+      "Motor_off":350},
+    "Alcon Colours":{
+      "Iluminacao_on":455,
+      "Iluminacao_off":39,
+      "Motor_on":14,
+      "Motor_off":390},
+    "Alcon Alevinos":{
+       "Iluminacao_on":600,
+      "Iluminacao_off":55,
+      "Motor_on":20,
+      "Motor_off":420}
+},
+"Molinésia": {
+    "Alcon Basic":{
+      "Iluminacao_on":450,
+      "Iluminacao_off":20,
+      "Motor_on":50,
+      "Motor_off":100},
+    "Alcon Colours":{
+      "Iluminacao_on":400,
+      "Iluminacao_off":25,
+      "Motor_on":30,
+      "Motor_off":300},
+    "Alcon Alevinos":{
+       "Iluminacao_on":350,
+      "Iluminacao_off":30,
+      "Motor_on":25,
+      "Motor_off":255}
+},
+"Acará-Bandeira": {
+    "Alcon Basic":{
+      "Iluminacao_on":451,
+      "Iluminacao_off":22,
+      "Motor_on":53,
+      "Motor_off":104},
+    "Alcon Colours":{
+      "Iluminacao_on":405,
+      "Iluminacao_off":26,
+      "Motor_on":37,
+      "Motor_off":308},
+    "Alcon Alevinos":{
+       "Iluminacao_on":359,
+      "Iluminacao_off":30,
+      "Motor_on":21,
+      "Motor_off":252}
+},
+"Matogrosso": {
+    "Alcon Basic":{
+      "Iluminacao_on":350,
+      "Iluminacao_off":30,
+      "Motor_on":30,
+      "Motor_off":200},
+    "Alcon Colours":{
+      "Iluminacao_on":500,
+      "Iluminacao_off":45,
+      "Motor_on":20,
+      "Motor_off":600},
+    "Alcon Alevinos":{
+       "Iluminacao_on":450,
+      "Iluminacao_off":40,
+      "Motor_on":45,
+      "Motor_off":265}
+},
+"Tetra Neon Negro": {
+    "Alcon Basic":{
+      "Iluminacao_on":350,
+      "Iluminacao_off":40,
+      "Motor_on":30,
+      "Motor_off":220},
+    "Alcon Colours":{
+      "Iluminacao_on":330,
+      "Iluminacao_off":25,
+      "Motor_on":20,
+      "Motor_off":330},
+    "Alcon Alevinos":{
+       "Iluminacao_on":450,
+      "Iluminacao_off":20,
+      "Motor_on":45,
+      "Motor_off":355}
+},
+"Cruzeiro do Sul": {
+    "Alcon Basic":{
+      "Iluminacao_on":350,
+      "Iluminacao_off":30,
+      "Motor_on":40,
+      "Motor_off":200},
+    "Alcon Colours":{
+      "Iluminacao_on":600,
+      "Iluminacao_off":35,
+      "Motor_on":22,
+      "Motor_off":340},
+    "Alcon Alevinos":{
+       "Iluminacao_on":360,
+      "Iluminacao_off":15,
+      "Motor_on":29,
+      "Motor_off":266}
+},
+"Barbus Ouro": {
+    "Alcon Basic":{
+      "Iluminacao_on":610,
+      "Iluminacao_off":22,
+      "Motor_on":55,
+      "Motor_off":180},
+    "Alcon Colours":{
+      "Iluminacao_on":470,
+      "Iluminacao_off":65,
+      "Motor_on":34,
+      "Motor_off":380},
+    "Alcon Alevinos":{
+       "Iluminacao_on":390,
+      "Iluminacao_off":36,
+      "Motor_on":27,
+      "Motor_off":655}
+}
+}
+
+
