@@ -17,3 +17,5 @@ Vinicius Yamane 16.02248-3, Willian Bazilio 16.00831-6
 
 
 ![Raspeixe!](Raspeixe.jpeg)
+
+Agradecimentos especiais a: Felipe Brandão Ippolito e Bruno Guilherme Lima Dias 🐪🐫
